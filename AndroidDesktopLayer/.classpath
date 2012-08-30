@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="libs/junit-4.10.jar"/>
+	<classpathentry kind="var" path="ANDROID_SDK/tools/lib/sdklib.jar"/>
+	<classpathentry kind="var" path="ANDROID_SDK/tools/lib/ddms.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Client Server sample</string>
+    <string name="server">Server</string>
+    <string name="explain">Listen or connect on port 1000.</string>
+    <string name="connect">Connect</string>
+    <string name="initip">192.168.0.</string>
+    <string name="srv.started">Server started</string>
+    <string name="srv.stoped">Server stoped</string>
+    
+</resources>

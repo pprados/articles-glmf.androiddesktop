@@ -1,0 +1,1 @@
+To build the eclipse project, select Windows/Preference/Java/Build Path/Classpath Variable, add the variable ANDROID_SDK to your android sdk folder.
